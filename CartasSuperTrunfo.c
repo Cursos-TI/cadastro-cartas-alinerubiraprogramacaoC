@@ -23,7 +23,7 @@ int pontos1, pontos2;
 // entrada de dados
 
 printf("digite o estado 1: ");
-scanf("%s\n", estado1);
+scanf("%c\n", estado1);
 printf("digite o estado 2: ");
 scanf("%s\n", estado2);
 
